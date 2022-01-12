@@ -34,8 +34,6 @@ Users should be able to:
 - Solution URL: [Source Code](https://github.com/waltersono/intro-component-with-signup-form)
 - Live Site URL: [View on Browser](https://waltersono.github.io/intro-component-with-signup-form/)
 
-## My process
-
 ### Built with
 
 - Vanila Javascript
